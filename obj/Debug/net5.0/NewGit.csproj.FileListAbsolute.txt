@@ -1,0 +1,16 @@
+E:\NewGit\bin\Debug\net5.0\NewGit.exe
+E:\NewGit\bin\Debug\net5.0\NewGit.deps.json
+E:\NewGit\bin\Debug\net5.0\NewGit.runtimeconfig.json
+E:\NewGit\bin\Debug\net5.0\NewGit.runtimeconfig.dev.json
+E:\NewGit\bin\Debug\net5.0\NewGit.dll
+E:\NewGit\bin\Debug\net5.0\ref\NewGit.dll
+E:\NewGit\bin\Debug\net5.0\NewGit.pdb
+E:\NewGit\obj\Debug\net5.0\NewGit.csproj.AssemblyReference.cache
+E:\NewGit\obj\Debug\net5.0\NewGit.GeneratedMSBuildEditorConfig.editorconfig
+E:\NewGit\obj\Debug\net5.0\NewGit.AssemblyInfoInputs.cache
+E:\NewGit\obj\Debug\net5.0\NewGit.AssemblyInfo.cs
+E:\NewGit\obj\Debug\net5.0\NewGit.csproj.CoreCompileInputs.cache
+E:\NewGit\obj\Debug\net5.0\NewGit.dll
+E:\NewGit\obj\Debug\net5.0\ref\NewGit.dll
+E:\NewGit\obj\Debug\net5.0\NewGit.pdb
+E:\NewGit\obj\Debug\net5.0\NewGit.genruntimeconfig.cache
